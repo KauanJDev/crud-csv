@@ -1,0 +1,39 @@
+body {
+    background-color:#63C9DB;
+    height: 100vh;
+    
+}
+
+form.formulario-login {
+    background-color: #1C1C25;
+    width: 450px;
+    height: 500px;
+    
+}
+
+button.btn {
+    background-color: blue;
+}
+
+section#login {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.box-login {
+    background-color: #7B95A6;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px rgb(0, 0, 0);
+    padding: 45px;
+    width: 400px;
+}
+
+.box-table{
+    background-color: #7B7CA6;
+    padding: 55px;
+    margin: 80px;
+}
+
+
